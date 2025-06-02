@@ -14,8 +14,8 @@ Welcome to my GitHub! I'm currently in my **3rd semester of Software Engineering
 
 - 🌐 **JavaScript** – Getting into web development  
 - 🤖 **Machine Learning** – Exploring the fundamentals of ML and data science
-- 🌐 **Computer Networks  
-- 🔐 **Information Security 
+- 🌐 **Computer Networks**  
+- 🔐 **Information Security** 
 ## 🎓 University Projects
 
 - 📚 **Library SQL System:** Tracks whether a person is borrowing a book or needs to return it  
