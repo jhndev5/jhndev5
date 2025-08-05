@@ -1,11 +1,12 @@
 # 👋 Hey there!
 
-Welcome to my GitHub! I'm currently in my **3rd semester of Software Engineering**, exploring the world of programming and building up my skills one project at a time.
+Welcome to my GitHub! I'm currently in my **2nd year of Software Engineering**, exploring the world of programming and building up my skills one project at a time.
 
 ## 🧠 What I Know
 
 - 💻 **Languages:**  
   - Basic **Python**, **C**, and **SQL**
+  - Advanced **Git**
 - 🛠️ **Skills:**  
   - Writing simple scripts and solving problems  
   - Basic database queries and procedural programming
